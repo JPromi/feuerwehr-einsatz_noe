@@ -1,0 +1,8 @@
+{
+    "wastl": {
+        "url": "https://infoscreen.florian10.info/OWS/wastlMobile/getEinsatzAktiv.ashx",
+        "bzk": "",
+        "city": "",
+        "updateInterval": 3
+    }
+}
