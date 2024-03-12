@@ -1,8 +1,8 @@
 {
     "wastl": {
         "url": "https://infoscreen.florian10.info/OWS/wastlMobile/getEinsatzAktiv.ashx",
-        "bzk": "",
-        "city": "",
-        "updateInterval": 3
+        "bzk": "14",
+        "city": "Perchtoldsdorf",
+        "updateInterval": 20
     }
 }
